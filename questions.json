@@ -1,0 +1,158 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "Rome", "Berlin", "Madrid"],
+        "answer": "Paris",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Who wrote 'Hamlet'?",
+        "options": ["Shakespeare", "Chaucer", "Hemingway", "Tolkien"],
+        "answer": "Shakespeare",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Where traditionally do birds fly in winter?",
+        "options": ["North", "East", "South", "Ibiza"],
+        "answer": "South",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which of the following is NOT a Bird of Prey?",
+        "options": ["Owl", "Buzzard", "Eagle", "Sparrow"],
+        "answer": "Sparrow",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Who is the alter ego of Norman Osborn in the 2002 film Spider-Man?",
+        "options": ["Red Dragon", "Yellow Peril", "Green Goblin", "Silver Shadow"],
+        "answer": "Green Goblin",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Traditionally, mozzarella cheese is made from the milk of which Animal?",
+        "options": ["Sheep", "Goat", "Moose", "Buffalo"],
+        "answer": "Buffalo",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Stratford Saye is the stately home of which Duke?",
+        "options": ["Marlborough", "Westminster", "Devonshire", "Wellington"],
+        "answer": "Wellington",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "Who wrote the play ‘A Man For All Seasons’?",
+        "options": ["John Osborne", "Peter Shaffer", "Harold Pinter", "Robert Bolt"],
+        "answer": "Robert Bolt",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "Which breed of dog is traditionally used for hunting hares?",
+        "options": ["Dachshund", "Beagle", "Great Dane", "Border Collie"],
+        "answer": "Beagle",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "How many of the ‘Three Little Pigs’ does the wolf eat?",
+        "options": ["None", "One", "Two", "Three"],
+        "answer": "None",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "The Royal Albert Hall was named after the husband of which British monarch?",
+        "options": ["Elizabeth", "Anne", "Mary", "Victoria"],
+        "answer": "Victoria",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "The Black Swan is native to which Country?",
+        "options": ["India", "Mexico", "Brazil", "Australia"],
+        "answer": "Australia",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "The Starbucks coffee company was founded in which US City?",
+        "options": ["Seattle", "Dallas", "Miami", "Boston"],
+        "answer": "Seattle",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "In which British City was Cary Grant born?",
+        "options": ["Leeds", "Manchester", "Birmingham", "Bristol"],
+        "answer": "Bristol",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Complete the name of this Cumbrian Town, …-in-Furness?",
+        "options": ["Cart", "Barrow", "Dray", "Wagon"],
+        "answer": "Barrow",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which Bank was ‘broken’ by the man in a Victorian music-hall song?",
+        "options": ["Cannes", "Lyons", "Monte Carlo", "Nice"],
+        "answer": "Monte Carlo",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "According to the title of the film, Brad Pitt’s character spent ‘Seven Years In….’?",
+        "options": ["Tibet", "Tanzania", "Texas", "Tipton"],
+        "answer": "Tibet",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Who provided the voice of Sinbad in the 2003 film ‘Sinbad: Legend of the Seven Seas’?",
+        "options": ["George Clooney", "Brad Pitt", "Edward Norton", "Nicolas Cage"],
+        "answer": "Brad Pitt",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What was the middle name of the artist LS Lowry?",
+        "options": ["Sidney", "Stephen", "Stanley", "Samuel"],
+        "answer": "Stanley",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "Which Band was formed by Cher’s son?",
+        "options": ["Fatsy", "Deadsy", "Livesy", "Patsy"],
+        "answer": "Deadsy",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "What name is given to the part of a Logarithm after the decimal point?",
+        "options": ["Mantilla", "Manumit", "Mantissa", "Manzanilla"],
+        "answer": "Mantissa",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Which French film is based on the Philippe Djian novel ‘37.2 Le Matin’?",
+        "options": ["Betty Blue", "Nikita", "Subway", "Breathless"],
+        "answer": "Betty Blue",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "What type of play is Shakespeare’s ‘Macbeth’?",
+        "options": ["Musical", "Tragedy", "Farce", "Comedy"],
+        "answer": "Tragedy",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which of the following is a British bird of prey?",
+        "options": ["Red Kite", "Blue Balloon", "Green Train", "Yellow Ball"],
+        "answer": "Red Kite",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Complete the title of the musical by Andrew Lloyd Webber, ‘Tell Me On A …’?",
+        "options": ["Sunday", "Monday", "Thursday", "Friday"],
+        "answer": "Sunday",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Who plays the lawyer Peter Sanderson in the 2003 comedy film ‘Bringing Down The House’?",
+        "options": ["Jim Carrey", "James Belushi", "Chevy Chase", "Steve Martin"],
+        "answer": "Steve Martin",
+        "difficulty": "Medium"
+    }
+]
